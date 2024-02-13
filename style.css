@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+   
 }
 
  .row{
@@ -19,6 +19,7 @@ gap:
 40px;
 justify-content:center ;
 align-items:center;
+margin-top:80px;
 
 
 }
